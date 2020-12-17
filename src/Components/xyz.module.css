@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.boxes {
+	width: 80px;
+	height: 40px;
+	margin: 10px;
+	border-color: blueviolet;
+	text-align: center;
+	font-size: 20px;
+    /* margin-bottom: 80px; */
+    border-radius: 5%;
+}
+
+.design {
+	text-align: center;
+    /* background-color: #e8ecef; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.color {
+	color: rgb(7, 95, 51);
+}
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+}
+.btn{
+    margin-left: 30px;
+    width: 70px;
+    height: 25px;
+    border-radius: 4px;
+}
+
+
